@@ -1,0 +1,24 @@
+{
+  "type": "package",
+  "name": "epignosis/talentcards-api-php-wrapper",
+  "description": "This is the TalentCards API PHP wrapper library.",
+  "keywords": [
+    "TalentCards",
+    "composer",
+    "package"
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~6.3.0"
+  },
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "phpunit/phpunit": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Epignosis\\TalentCards\\": "src/Epignosis/TalentCards"
+    }
+  }
+}
