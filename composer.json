@@ -1,6 +1,6 @@
 {
   "type": "package",
-  "name": "epignosis/talentcards-api-php-wrapper",
+  "name": "epignosis/talentcards-api-wrapper",
   "description": "This is the TalentCards API PHP wrapper library.",
   "keywords": [
     "TalentCards",
