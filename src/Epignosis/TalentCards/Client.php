@@ -44,7 +44,7 @@ class Client implements RequestableInterface
      *
      * @var string
      */
-    protected $url = 'https://www.talentcards.io/api/v1/company';
+    protected $url = 'https://www.talentcards.com/api/v1/company';
 
     public function __construct($client = null)
     {
